@@ -1,0 +1,2 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\ModifiedSimplexMethod\ModifiedSimplexMethod\obj\Release\ModifiedSimplexMethod.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\ModifiedSimplexMethod\ModifiedSimplexMethod\obj\Release\ModifiedSimplexMethod.pdb
